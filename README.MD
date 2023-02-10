@@ -31,7 +31,3 @@ Usando las librerias:
 ## Uso
 
 El servidor está listo para recibir y responder a solicitudes HTTP y mostrar una grafica con filtro por año y distrito en el puerto 3000. 
-
-## Licencia
-
-Este proyecto está bajo la licencia ISC.
